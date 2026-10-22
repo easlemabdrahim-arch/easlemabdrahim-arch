@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Easlem Abdelrahim
 
-<!--
-**easlemabdrahim-arch/easlemabdrahim-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning *C++ and Programming Fundamentals*
+- 🧠 Interested in *Problem Solving and Software Development*
+- 🎯 My goal is to become a skilled software developer
+- 📚 Learning something new every day
+
+### 🛠️ Languages & Tools
+
+- C++
+- Git & GitHub
+
+### 📫 Let's Connect
+
+Thanks for visiting my profile! ⭐
+
+> Small steps every day lead to big dreams. 💙
