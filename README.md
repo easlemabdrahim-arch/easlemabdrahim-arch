@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cb851cf1-164a-4fad-a8a6-99a4baa429a0" width="100%" />
+  <img src="WhatsApp Image 2026-10-22 at 11.03.29 PM.jpeg" width="100%">
 </p>
 # Hi, I'm Easlem Abdelrahim
 
